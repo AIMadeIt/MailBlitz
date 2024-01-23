@@ -1,0 +1,2 @@
+colorama==0.4.4
+secure-smtplib==0.1.1
