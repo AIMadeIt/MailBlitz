@@ -19,25 +19,21 @@ Before running the script, ensure you have the following prerequisites installed
 - Python 3
 - Pip (Python package installer)
 
-
-
 ## Installation
 
+```bash
 git clone https://github.com/AIMadeIt/MailBlitz.git
 cd MailBlitz
 pip install -r requirements.txt
-
+```
 
 ## Usage
 
+```bash
 python mailblitz.py
+```
 
-
-
-
-echo "# MailBlitz" >> README.md
-git init
-git add README.mdFollow the on-screen menu for various options.
+Follow the on-screen menu for various options.
 
 ## Configuration
 
