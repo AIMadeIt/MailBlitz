@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python mailblitz.py
+python MailBlitz.py
 ```
 
 Follow the on-screen menu for various options.
